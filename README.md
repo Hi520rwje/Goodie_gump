@@ -2,6 +2,10 @@
 
 By Ayden Neely
 
+How to clone repository: 
+```git clone https://github.com/Hi520rwje/Goodie_gump.git && cd Goodie_gump```
+
+
 HTML Code:
 ```
 <!DOCTYPE html>
